@@ -43,3 +43,5 @@ npx create-next-app@latest
 npm run dev
 rafce = react arrow function component with explore
 npm install react-icons
+
+npm i react-spinners
