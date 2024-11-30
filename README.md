@@ -42,3 +42,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 npx create-next-app@latest
 npm run dev
 rafce = react arrow function component with explore
+npm install react-icons
