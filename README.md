@@ -45,3 +45,13 @@ rafce = react arrow function component with explore
 npm install react-icons
 npm i react-spinners
 npm i mongodb mongoose
+
+Auth
+https://console.cloud.google.com/
+https://next-auth.js.org/providers/google
+https://next-auth.js.org/configuration/options
+
+npm i next-auth
+openssl rand -base64 32
+
+http://localhost:3000/api/auth/signin
